@@ -1,0 +1,121 @@
+---
+regions:
+  - name: Africa
+    slug: africa
+    children:
+      - name: Northern Africa
+        slug: northern-africa
+        children:
+          - name: Egypt
+            slug: egypt
+          - name: Libya
+            slug: libya
+          - name: Morocco
+            slug: morroco
+          - name: Sudan
+            slug: sudan
+          - name: Tunisia
+            slug: tunisia
+      - name: Southern Africa
+        slug: southern-africa
+        children:
+          - name: eSwatini
+            slug: eswatini
+          - name: Lesotho
+            slug: lesotho
+          - name: Botswana
+            slug: botswana
+          - name: Namibia
+            slug: namibia
+          - name: South Africa
+            slug: south-africa
+            children:
+              - name: Cape Town
+                slug: cape-town
+      - name: Eastern Africa
+        slug: eastern-africa
+        children:
+          - name: Burundi
+            slug: burundi
+          - name: Comoros
+            slug: comoros
+          - name: Djibouti
+            slug: djibouti
+          - name: Eritrea
+            slug: eritrea
+          - name: Ethiopia
+            slug: ethiopia
+          - name: Kenya
+            slug: kenya
+          - name: Madagascar
+            slug: madagascar
+          - name: Malawi
+            slug: malawi
+          - name: Mauritius
+            slug: mauritius
+          - name: Mozambique
+            slug: mozambique
+          - name: Rwanda
+            slug: rwanda
+          - name: Seychelles
+            slug: seychelles
+          - name: Somalia
+            slug: somalia
+          - name: South Sudan
+            slug: south-sudan
+          - name: Tanzania
+            slug: tanzania
+          - name: Uganda
+            slug: uganda
+          - name: Zambia
+            slug: zambia
+          - name: Zimbabwe
+            slug: zimbabwe
+      - name: Western Africa
+        slug: western-africa
+        children:
+          - name: Benin
+            slug: benin
+          - name: Burkina Faso
+            slug: burkina-faso
+          - name: Togo
+            slug: togo
+          - name: Ghana
+            slug: ghana
+          - name: Ivory Coast
+            slug: ivory-coast
+          - name: Liberia
+            slug: liberia
+          - name: Sierra Leone
+            slug: sierra-leone
+          - name: Guinea
+            slug: guinea
+          - name: Guinea Bissau
+            slug: guinea-bissau
+          - name: Senegal
+            slug: senegal
+      - name: Central Africa
+        slug: central-africa
+        children:
+          - name: Angola
+            slug: angola
+          - name: Cameroon
+            slug: cameroon
+          - name: Central Africa Republic
+            slug: central-africa-republic
+          - name: Chad
+            slug: chad
+          - name: DR Congo
+            slug: dr-congo
+          - name: Republic of Congo
+            slug: republic-of-congo
+          - name: Equatorial Guinea
+            slug: equatorial-guinea
+          - name: Gabon
+            slug: gabon
+          - name: Sao Tome and Principe
+            slug: sao-tome-and-principe
+          - name: Rwanda
+            slug: rwanda
+          - name: Burundi
+            slug: burundi

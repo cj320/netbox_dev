@@ -1,0 +1,130 @@
+---
+regions:
+  - name: United States of America
+    slug: usa
+    children:
+      - name: Northern East US Region
+        slug: northeast-us
+        children:
+          - name: Connecticut
+            slug: connecticut
+          - name: Massachusetts
+            slug: massachusetts
+          - name: New Hampshire
+            slug: new-hampshire
+          - name: Rhode Island
+            slug: rhode-island
+          - name: Vermont
+            slug: vermont
+          - name: New Jersey
+            slug: new-jersey
+          - name: New York
+            slug: new-york
+          - name: Pennsylvania
+            slug: pennsylvania
+      - name: Midwestern US Region
+        slug: midwest-us
+        children:
+          - name: Illinois
+            slug: illinois
+          - name: Indiana
+            slug: indiana
+          - name: Michigan
+            slug: michigan
+          - name: Ohio
+            slug: ohio
+          - name: Wisconsin
+            slug: wisconsin
+          - name: Iowa
+            slug: iowa
+          - name: Kansas
+            slug: kansas
+          - name: Minnesota
+            slug: minnesota
+          - name: Missouri
+            slug: missouri
+          - name: Nebraska
+            slug: nebraska
+          - name: North Dakota
+            slug: north-dakota
+          - name: South Dakota
+            slug: south-dakota
+      - name: Southern US Region
+        slug: southern-us
+        children:
+          - name: Delaware
+            slug: delaware
+          - name: Florida
+            slug: florida
+          - name: Georgia
+            slug: georgia
+          - name: Maryland
+            slug: maryland
+            children:
+              - name: Baltimore County MD
+                slug: baltimore-county-md
+                children:
+                  - name: Catonsville
+                    slug: catonsville
+              - name: Howard County MD
+                slug: howard-county-md
+                children:
+                  - name: Ellicot City MD
+                    slug: ellicot-city-md
+          - name: North Carolina
+            slug: north-carolina
+          - name: South Carolina
+            slug: south-carolina
+            children:
+              - name: Richland County SC
+                slug: richland-county-sc
+                children:
+                  - name: Columbia SC
+                    slug: columbia-sc
+          - name: Virginia
+            slug: virginia
+          - name: West Virginia
+            slug: west-virginia
+          - name: Alabama
+            slug: alabama
+          - name: Kentucky
+            slug: kentucky
+          - name: Mississippi
+            slug: mississippi
+          - name: Tennessee
+            slug: tennessee
+          - name: Texas
+            slug: texas
+          - name: Arkansas
+            slug: arkansas
+          - name: Louisiana
+            slug: louisiana
+          - name: Oklahoma
+            slug: oklahoma
+      - name: Western US Region
+        slug: western-us
+        children:
+          - name: Arizona
+            slug: arizona
+          - name: Colorado
+            slug: colorado
+          - name: Nevada
+            slug: nevada
+          - name: New Mexico
+            slug: new-mexico
+          - name: Utah
+            slug: utah
+          - name: Wyoming
+            slug: wyoming
+          - name: Alaska
+            slug: alaska
+          - name: California
+            slug: california
+          - name: Hawaii
+            slug: hawaii
+          - name: Oregon
+            slug: oregon
+          - name: Washington
+            slug: washington
+      - name: Washington DC
+        slug: washington-dc

@@ -1,0 +1,125 @@
+---
+regions:
+  - name: Western Europe
+    slug: western-europe
+    children:
+      - name: Austria
+        slug: austria
+      - name: Belgium
+        slug: belgium
+      - name: France
+        slug: france
+      - name: Germany
+        slug: germany
+        children:
+          - name: Tauting
+            slug: tauting
+            children:
+              - name: Boot District
+                slug: boot-district
+                children:
+                  - name: Fish Market
+                    slug: fish-market
+      - name: Liechtenstein
+        slug: liechtenstein
+      - name: Luxembourg
+        slug: luxembourg
+      - name: Monaco
+        slug: monaco
+      - name: Netherlands
+        slug: netherlands
+      - name: Switzerland
+        slug: switzerland
+  - name: Eastern Europe
+    slug: eastern-europe
+    children:
+      - name: Armenia
+        slug: armenia
+      - name: Azerbaijan
+        slug: azerbaijan
+      - name: Belarus
+        slug: belarus
+      - name: Bulgaria
+        slug: bulgaria
+      - name: Czechia
+        slug: czechia
+      - name: Georgia
+        slug: georgia-eur
+      - name: Hungary
+        slug: hungary
+      - name: Kazakhstan
+        slug: kazakhstan
+      - name: Kosovo
+        slug: kosovo
+      - name: Poland
+        slug: poland
+      - name: Republic of Moldova
+        slug: republic-of-moldova
+      - name: Romania
+        slug: romania
+      - name: Russian Federation
+        slug: russian-federation
+      - name: Slovakia
+        slug: slovakia
+      - name: Turkey
+        slug: turkey
+      - name: Ukraine
+        slug: ukraine
+  - name: Northern Europe
+    slug: northern-europe
+    children:
+      - name: Denmark
+        slug: denmark
+      - name: Estonia
+        slug: estonia
+      - name: Finland
+        slug: finland
+      - name: Iceland
+        slug: iceland
+      - name: Ireland
+        slug: ireland
+      - name: Lativa
+        slug: lativa
+      - name: Lithuania
+        slug: lithuania
+      - name: Norway
+        slug: norway
+      - name: Sweden
+        slug: sweden
+      - name: United Kingdom
+        slug: united-kingdom
+  - name: Southern Europe
+    slug: south-europe
+    children:
+      - name: Albania
+        slug: albania
+      - name: Andorra
+        slug: andorra
+      - name: Bosnia
+        slug: bosnia
+      - name: Croatia
+        slug: croatia
+      - name: Cyprus
+        slug: cyprus
+      - name: Greece
+        slug: greece
+      - name: Italy
+        slug: italy
+      - name: Malta
+        slug: malta
+      - name: Montenegro
+        slug: montenegro
+      - name: North Macedonia
+        slug: north-macedonia
+      - name: Portugal
+        slug: portugal
+      - name: San Marino
+        slug: san-marino
+      - name: Serbia
+        slug: serbia
+      - name: Slovenia
+        slug: slovenia
+      - name: Spain
+        slug: spain
+      - name: Vatican City
+        slug: vatican-city
